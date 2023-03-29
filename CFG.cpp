@@ -1,4 +1,4 @@
-//this code works for only the CGF given in example 5.4.5 of the Automata book.It is not generalized
+//this code works for only the CFG given in example 5.4.5 of the Automata book.It is not generalized
 #include<bits/stdc++.h>
 using namespace std;
 
